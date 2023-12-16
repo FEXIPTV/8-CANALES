@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 3
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 4
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 5
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB
+http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atb.com.bo/icons/logo-large.png" group-title="Bolivia",ATB La Paz (Mirror)
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV 
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj" group-title="Bolivia", XTO TV
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
